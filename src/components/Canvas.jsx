@@ -562,7 +562,7 @@ const Canvas = () => {
       >
         <div className="absolute top-0 left-0 right-0 h-8 bg-blue-50 flex items-center justify-between z-10 canvas-header">
           <div className="relative left-[45%] text-xs text-blue-500 font-medium">
-            Traveller Canvas
+            Travel Canvas
           </div>
           <div className="flex items-center gap-2 mr-3 export-buttons">
             {exportReady ? (
