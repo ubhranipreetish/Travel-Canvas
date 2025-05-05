@@ -1,6 +1,7 @@
 # Travel Canvas
 
 A modern, interactive canvas editor with drag-and-drop functionality, perfect for creating visual content for your travel experiences.
+Hosted URL : 'https://travelcanvas.netlify.app/'
 
 ## Features
 
